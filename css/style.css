@@ -106,7 +106,7 @@ header {
 
 .lucas img {
     position: absolute;
-    width: 85%;
+    width: 90%;
     bottom: 0px;
     padding: 0;
 
@@ -124,7 +124,7 @@ header {
 .text {
 
     position: absolute;
-    top: 10%;
+    top: 20%;
     left: 2%;
     font-size: 50px;
     color: white;
@@ -162,7 +162,7 @@ h1 {
     cursor: pointer;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     position: absolute;
-    top: 75%;
+    top: 56%;
     left: 20px;
     z-index: 1;
 }
@@ -211,7 +211,7 @@ h1 {
 .social-medias img {
 
     width: 40px;
-    margin-top: 80%;
+    margin-top: 85%;
     margin-left: 60px;
 
 }
